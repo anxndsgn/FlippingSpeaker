@@ -27,3 +27,6 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+kicad file/.DS_Store
+.DS_Store
+kicad file/Flipping/fp-lib-table
